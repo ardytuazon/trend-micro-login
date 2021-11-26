@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:ardytuazon/trend-micro-login.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:ardytuazon/trendmicro.login.git main:gh-pages
+git push -f git@github.com:ardytuazon/trend-micro-login.git main:gh-pages
 
 cd -
